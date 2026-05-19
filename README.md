@@ -1,6 +1,4 @@
-# 03-helloGH-fmatalik
-hallo
+# 03-merge-conflict-fmatalik
 
-Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+Dieses Projekt wurde lokal bearbeitet.
 
-hello Github
